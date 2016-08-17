@@ -1,0 +1,14 @@
+layout_spectrum: 0.31484110932797194
+typography_spectrum: 0.5114764769095927
+color:
+  brandStrength: 0.9738297176081687
+  lightness: 0.0417150987777859
+  saturation: 0.1598640070296824
+  rhythmicContrast: 0.1263442006893456
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+name: jessica
